@@ -1,0 +1,48 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Large files
+*.tar.gz
+*.zip
+*.rar
+
+# SAM2 checkpoint files
+human_tower_battle_2025/sam2/checkpoints/*.pt
+
+# Large image files
+human_tower_battle_2025/games/Background.png
+
+# Conda environment
+miniconda3/
+.conda/
+
+# Personal files
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
+Public/
+Library/
