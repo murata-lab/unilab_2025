@@ -1,0 +1,25 @@
+.DS_Store
+
+# SAM2 checkpoint files (large model files)
+sam2/checkpoints/*.pt
+
+# Large image files
+games/Background.png
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
